@@ -3,7 +3,7 @@ A Blender to Sketch 3d Exporter
 ===============================
 
 :Author: Kjell Magne Fauske
-:Version: 2.0dev
+:Version: 2.0
 :Licence: MIT
 
 

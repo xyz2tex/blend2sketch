@@ -59,7 +59,7 @@ then automatically detect the script.
 """
 
 # Changelog:
-# SVN
+# 2.0.0
 #   - Minor code refactoring
 #   - Added group support.
 # 1.0.1
